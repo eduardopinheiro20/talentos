@@ -1,4 +1,7 @@
-﻿# clonar um repositório
+﻿
+	EDUARDO PINHEIRO DA CRUZ
+
+# clonar um repositório
 	git clone <URL> 
 
 # mostra o status do repositório
