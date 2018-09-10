@@ -1,13 +1,20 @@
-﻿# Palmeiras nao tem Mundial
+﻿-- clonar um repositório
+git clone <URL> 
 
-# talentos
+-- mostra o status do repositório
+git status	
+	
+-- prepara para commit
+git add <--all, ., nome do arquivo>	
 
-Repositório para exercícios com os talentos da SMN
+-- faz um commit com as alterações
+git commit -m '<msg>' 
 
-#BATATA
+-- envia as alterações locais para a origin
+git push
 
-#Mouse
+-- atualiza o repositório local 
+git pull
 
-# Palmeiras nao tem Mundial
-
-# Alguma coisa
+-- busca as alterações na origin
+git fetch
