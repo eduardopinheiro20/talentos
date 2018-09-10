@@ -1,6 +1,9 @@
-﻿# talentos
+﻿# Palmeiras nao tem Mundial
+
+# talentos
+
 Repositório para exercícios com os talentos da SMN
 
-# Batata
+#BATATA
 
-# Palemeiras nao tem Mundial
+#Mouse
