@@ -3,4 +3,6 @@ Repositório para exercícios com os talentos da SMN
 
 # Batata
 
-# Palemeiras nao tem Mundial
+# Palmeiras nao tem Mundial
+
+# Alguma coisa
